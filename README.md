@@ -81,12 +81,7 @@ All outputs are constrained to known metrics to ensure transparency and avoid ha
 ---
 
 ## Demo Screens (UI Prototype)
-Screenshots below demonstrate the product concept:
-
-![UI Overview](demo/ui-overview.png)
-![Top Behavioral Drivers](demo/risk-drivers.png)
-![AI Summary](demo/ai-summary.png)
-![Recommended Actions](demo/recommended-actions.png)
+https://agent-analyzer-3.emergent.host/
 
 ---
 
