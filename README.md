@@ -1,5 +1,11 @@
 # AI Agent Risk Copilot (Auto LOB)
 
+## Live Demo
+Landing page: https://agent-analyzer-3.emergent.host/
+
+## Design Preview
+This repository includes UI prototype screenshots and product docs demonstrating the intended experience and decision workflow.
+
 ## Overview
 AI Agent Risk Copilot is a product simulation of an internal decision-support tool designed to help underwriting and product teams understand **why** an insurance agent appears risky and **what actions to take next**.
 
@@ -71,17 +77,18 @@ This shift significantly improved interpretability and alignment with business e
 ## Use of AI
 AI is used as an **explanation and communication layer**, not a prediction engine.
 
-The Copilot:
+## AI Tools Used
+- **Emergent** – rapid landing-page/prototype build for the product concept.
+- **Galileo AI** – UI concept generation and layout inspiration
+- **OpenAI (ChatGPT)** – drafting product copy, refining narrative, and creating constrained prompt templates.
+- **GitHub Copilot** – accelerating scaffolding, formatting, and iteration (when writing supporting snippets/docs).
+
+Website uses Copilot to:
 - Converts scoring outputs into natural-language summaries
 - Highlights top contributing behaviors
 - Suggests operational next steps
 
 All outputs are constrained to known metrics to ensure transparency and avoid hallucination.
-
----
-
-## Demo Screens (UI Prototype)
-https://agent-analyzer-3.emergent.host/
 
 ---
 
